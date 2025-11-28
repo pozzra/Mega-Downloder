@@ -88,7 +88,7 @@ export const Navbar = () => {
             rel="noopener noreferrer"
             className="bg-primary text-background font-bold py-3 text-center rounded-lg mt-2"
           >
-            ទិញឥឡូវនេះ (9.99$)
+            ទិញឥឡូវនេះ (15$)
           </a>
         </div>
       )}

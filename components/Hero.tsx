@@ -5,15 +5,15 @@ import { ArrowRight, DownloadCloud, Zap, ShieldCheck, ChevronLeft, ChevronRight 
 // សូមប្រាកដថាអ្នកបានបង្កើត Folder "Images" ក្នុង "public" ហើយដាក់រូបភាពចូល
 const screenshots = [
   {
-    url: "/Images/slider1.png", // ឈ្មោះ File: "img 1.png"
+    url: "https://github.com/pozzra/Mega-Downloder/blob/main/Images/slider1.png?raw=true", // ឈ្មោះ File: "img 1.png"
     alt: "Main Interface - Dark Mode"
   },
   {
-    url: "/Images/slider2.png",   // ឈ្មោះ File: "im2.png"
+    url: "https://github.com/pozzra/Mega-Downloder/blob/main/Images/slider2.png?raw=true",   // ឈ្មោះ File: "im2.png"
     alt: "High Speed Downloading"
   },
   {
-    url: "/Images/slider3.png",  // ឈ្មោះ File: "img3.png"
+    url: "https://raw.githubusercontent.com/pozzra/Mega-Downloder/refs/heads/main/Images/slider3.png",  // ឈ្មោះ File: "img3.png"
     alt: "Security Key System"
   }
 ];

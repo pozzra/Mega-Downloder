@@ -14,10 +14,11 @@ export const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: 'ទាញយក', href: 'https://mega.nz/file/2lZU3KIR#JBlwheeb7G_BYsI5KOKUNrzWhU458RkTxJgbwcw9QAk', external: true },
+    { name: 'ទាញយក', href: 'https://mega.nz/file/Op4DWIQT#JCvKwaftmevEbkaFdx8pK8KVvp9gc8hPNzgHTLXLRlg', external: true },
     { name: 'លក្ខណៈពិសេស', href: '#features' },
     { name: 'តម្លៃ', href: '#pricing' },
     { name: 'បញ្ជាក់', href: '#testimonials' },
+    { name: 'សាកល្បង', href: '#verification' },
     { name: 'សំណួរ', href: '#faq' },
   ];
 
@@ -88,7 +89,7 @@ export const Navbar = () => {
             rel="noopener noreferrer"
             className="bg-primary text-background font-bold py-3 text-center rounded-lg mt-2"
           >
-            ទិញឥឡូវនេះ (9.99$)
+            ទិញឥឡូវនេះ (15$)
           </a>
         </div>
       )}

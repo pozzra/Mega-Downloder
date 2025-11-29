@@ -82,7 +82,7 @@ export const Hero = () => {
             <ArrowRight size={20} />
           </a>
           <a 
-            href="https://mega.nz/folder/b5w3kBiT#caY36jX4LlIf8z9AqxMX2g"
+            href="https://mega.nz/file/Op4DWIQT#JCvKwaftmevEbkaFdx8pK8KVvp9gc8hPNzgHTLXLRlg"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-4 bg-[#161b22] border border-gray-700 hover:border-primary text-secondary hover:text-primary font-bold text-lg rounded-xl transition-all duration-300 flex items-center justify-center gap-2"

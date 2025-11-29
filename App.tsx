@@ -6,6 +6,7 @@ import { Pricing } from './components/Pricing';
 import { Testimonials } from './components/Testimonials';
 import { FAQ } from './components/FAQ';
 import { Footer } from './components/Footer';
+import { Verification } from './components/Verification';
 import { ArrowUp, MessageCircle } from 'lucide-react';
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
         <Features />
         <Pricing />
         <Testimonials />
+        <Verification />
         <FAQ />
       </main>
       <Footer />

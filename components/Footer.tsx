@@ -13,7 +13,7 @@ export const Footer = () => {
           
           <div className="flex flex-col sm:flex-row gap-4">
              <a 
-              href="https://mega.nz/file/2lZU3KIR#JBlwheeb7G_BYsI5KOKUNrzWhU458RkTxJgbwcw9QAk"
+              href="https://mega.nz/file/Op4DWIQT#JCvKwaftmevEbkaFdx8pK8KVvp9gc8hPNzgHTLXLRlg"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-gray-800 hover:bg-gray-700 text-white rounded-lg transition-colors flex items-center justify-center gap-2 border border-gray-700 cursor-pointer"

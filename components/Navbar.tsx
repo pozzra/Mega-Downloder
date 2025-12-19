@@ -14,7 +14,7 @@ export const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: 'ទាញយក', href: 'https://mega.nz/file/Op4DWIQT#JCvKwaftmevEbkaFdx8pK8KVvp9gc8hPNzgHTLXLRlg', external: true },
+    { name: 'ទាញយក', href: 'https://mega.nz/file/K9JSCRQC#SzyAdqdZG5FxJXuEhvTLPfvDdPc1RFVqgTXNJiYdqS8', external: true },
     { name: 'លក្ខណៈពិសេស', href: '#features' },
     { name: 'តម្លៃ', href: '#pricing' },
     { name: 'បញ្ជាក់', href: '#testimonials' },
